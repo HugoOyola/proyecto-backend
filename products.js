@@ -20,8 +20,8 @@ const productManager = new ProductManager('productos.json');
 //   stock: 5,
 // });
 
-const allProducts = productManager.getProducts();
-console.log(allProducts);
+// const allProducts = productManager.getProducts();
+// console.log(allProducts);
 
 // const product = productManager.getProductById(2);
 // console.log(product);
